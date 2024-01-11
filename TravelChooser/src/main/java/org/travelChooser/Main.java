@@ -53,7 +53,5 @@ public class Main {
         travelOffice.addCustomer(customerWithoutTrip);
 
         System.out.println(travelOffice.getCustomersInfo());
-
-
     }
 }

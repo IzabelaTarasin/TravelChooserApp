@@ -71,4 +71,12 @@ public class TravelOffice {
         return tripsByPlace;
     }
 
+    public List<Customer> getCustomers() {
+        return customers;
+    }
+
+    public Set<Trip> getTrips() {
+        return trips;
+    }
+
 }
